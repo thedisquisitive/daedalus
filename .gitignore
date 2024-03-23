@@ -32,3 +32,5 @@
 *.app
 /.vs/Daedalus/FileContentIndex
 /.vs
+/Daedalus/x64/Debug
+/x64/Debug
